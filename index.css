@@ -1,0 +1,22 @@
+.contact {
+    width: 50%;
+    background-color: beige;
+}
+
+.heading {
+    text-align: center;
+    background-color: coral;
+}
+
+body {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
